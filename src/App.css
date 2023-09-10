@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.logo{
+  height: 40px;
+  padding-right: 4px;
+}
+.main{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.my-card{
+  height: 89vh;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
